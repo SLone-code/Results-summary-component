@@ -150,7 +150,7 @@ span:not(.seven){
 
 /* Mobile Version */
 
-@media screen and (max-width: 375px) {
+@media (max-width: 375px) {
 
 body{
     background-color: white;
